@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApp", "FirstApp\FirstApp.csproj", "{DD55185A-08F3-4616-B1F1-3B5F249ACE50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApp", "FirstApp\FirstApp.csproj", "{DD55185A-08F3-4616-B1F1-3B5F249ACE50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount", "Lesson 2\Discount\Discount.csproj", "{74EEE3F7-E381-4F63-B628-7B0029E7E59D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount", "Lesson 2\Discount\Discount.csproj", "{74EEE3F7-E381-4F63-B628-7B0029E7E59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time", "Time\Time.csproj", "{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{74EEE3F7-E381-4F63-B628-7B0029E7E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74EEE3F7-E381-4F63-B628-7B0029E7E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74EEE3F7-E381-4F63-B628-7B0029E7E59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
