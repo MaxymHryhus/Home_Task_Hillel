@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount", "Lesson 2\Discou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time", "Time\Time.csproj", "{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book", "Lesson 2\Book\Book.csproj", "{CDBE4395-747F-4186-8EFB-5DE0968DFD09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A38C3BD-1309-4F6E-BC2F-DBFFB0EA7704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBE4395-747F-4186-8EFB-5DE0968DFD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBE4395-747F-4186-8EFB-5DE0968DFD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBE4395-747F-4186-8EFB-5DE0968DFD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBE4395-747F-4186-8EFB-5DE0968DFD09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
