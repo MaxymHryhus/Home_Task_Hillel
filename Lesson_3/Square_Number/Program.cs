@@ -14,7 +14,7 @@
             Console.WriteLine("Enter your number: ");
             number = Convert.ToDouble(Console.ReadLine());
 
-            // Очислємо квадрат введеного числа
+            // Очислюємо квадрат введеного числа
 
             double squareNumber;
             squareNumber = Math.Pow(number, 2);
