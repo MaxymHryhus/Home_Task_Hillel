@@ -19,11 +19,11 @@
 
              int ones = threeDigitNumber % 10;
              int tens = (threeDigitNumber / 10) % 10;
-             int hundrets = threeDigitNumber / 100;
+             int hundreds = threeDigitNumber / 100;
 
             // Переставляємо першу та другу цифру
 
-            newThreeDigitNumber = (tens * 100) + (hundrets * 10) + ones;
+            newThreeDigitNumber = (tens * 100) + (hundreds * 10) + ones;
 
             // Виводимо результат в консоль
 
