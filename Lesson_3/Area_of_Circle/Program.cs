@@ -25,8 +25,6 @@
 
             Console.WriteLine("Area of a circle: " + s);
             Console.ReadLine();
-
-
         }
     }
 }
