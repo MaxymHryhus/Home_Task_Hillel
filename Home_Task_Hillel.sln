@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switching_numbers", "Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Number", "Lesson_3\Square_Number\Square_Number.csproj", "{9741C234-48AF-401D-B879-5A09EAFD7916}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switching_two_numbers", "Lesson_3\Switching_two_numbers\Switching_two_numbers.csproj", "{E8DB997D-52FA-410C-B359-FE39B7605B88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9741C234-48AF-401D-B879-5A09EAFD7916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9741C234-48AF-401D-B879-5A09EAFD7916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9741C234-48AF-401D-B879-5A09EAFD7916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8DB997D-52FA-410C-B359-FE39B7605B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8DB997D-52FA-410C-B359-FE39B7605B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8DB997D-52FA-410C-B359-FE39B7605B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8DB997D-52FA-410C-B359-FE39B7605B88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
