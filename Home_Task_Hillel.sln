@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Number", "Lesson_3\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switching_two_numbers", "Lesson_3\Switching_two_numbers\Switching_two_numbers.csproj", "{E8DB997D-52FA-410C-B359-FE39B7605B88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic_mean", "Lesson_3\Arithmetic_mean\Arithmetic_mean.csproj", "{12F2B383-A9DA-418A-A9B9-913354864194}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E8DB997D-52FA-410C-B359-FE39B7605B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8DB997D-52FA-410C-B359-FE39B7605B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8DB997D-52FA-410C-B359-FE39B7605B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F2B383-A9DA-418A-A9B9-913354864194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F2B383-A9DA-418A-A9B9-913354864194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F2B383-A9DA-418A-A9B9-913354864194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F2B383-A9DA-418A-A9B9-913354864194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
