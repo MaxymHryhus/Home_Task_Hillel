@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Book", "Lesson 2\Book\Book.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switching_numbers", "Lesson_3\Switching_numbers\Switching_numbers.csproj", "{4EF93EF4-DD4E-4370-A8A9-88C1EC67111B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Number", "Lesson_3\Square_Number\Square_Number.csproj", "{9741C234-48AF-401D-B879-5A09EAFD7916}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4EF93EF4-DD4E-4370-A8A9-88C1EC67111B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF93EF4-DD4E-4370-A8A9-88C1EC67111B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF93EF4-DD4E-4370-A8A9-88C1EC67111B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9741C234-48AF-401D-B879-5A09EAFD7916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9741C234-48AF-401D-B879-5A09EAFD7916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9741C234-48AF-401D-B879-5A09EAFD7916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9741C234-48AF-401D-B879-5A09EAFD7916}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
