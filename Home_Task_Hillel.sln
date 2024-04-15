@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arithmetic_mean", "Lesson_3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area_of_Circle", "Lesson_3\Area_of_Circle\Area_of_Circle.csproj", "{9E4C0A2F-E0A9-4A85-BF80-C6269D8BF24C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Options_moving", "Lesson_3\Options_moving\Options_moving.csproj", "{E2B692E5-03F7-4EE9-8768-67D09FE5DC94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Options_moving", "Lesson_3\Options_moving\Options_moving.csproj", "{E2B692E5-03F7-4EE9-8768-67D09FE5DC94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison_of_numbers", "Lesson_4\Comparison_of_numbers\Comparison_of_numbers.csproj", "{272AD4BC-29D5-418C-89FA-54CE5EB942E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{E2B692E5-03F7-4EE9-8768-67D09FE5DC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B692E5-03F7-4EE9-8768-67D09FE5DC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B692E5-03F7-4EE9-8768-67D09FE5DC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272AD4BC-29D5-418C-89FA-54CE5EB942E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272AD4BC-29D5-418C-89FA-54CE5EB942E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272AD4BC-29D5-418C-89FA-54CE5EB942E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272AD4BC-29D5-418C-89FA-54CE5EB942E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
