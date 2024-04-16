@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Area_of_Circle", "Lesson_3\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Options_moving", "Lesson_3\Options_moving\Options_moving.csproj", "{E2B692E5-03F7-4EE9-8768-67D09FE5DC94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison_of_numbers", "Lesson_4\Comparison_of_numbers\Comparison_of_numbers.csproj", "{272AD4BC-29D5-418C-89FA-54CE5EB942E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comparison_of_numbers", "Lesson_4\Comparison_of_numbers\Comparison_of_numbers.csproj", "{272AD4BC-29D5-418C-89FA-54CE5EB942E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determining_the_season", "Lesson_4\Determining_the_season\Determining_the_season.csproj", "{72B0E5E1-6FC9-40AC-A114-B708713E9F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Determining_the_season", "Lesson_4\Determining_the_season\Determining_the_season.csproj", "{72B0E5E1-6FC9-40AC-A114-B708713E9F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "Lesson_4\FizzBuzz\FizzBuzz.csproj", "{E1FC0BC3-0C32-46C9-9875-F29498AD206D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "Lesson_4\FizzBuzz\FizzBuzz.csproj", "{E1FC0BC3-0C32-46C9-9875-F29498AD206D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadratic_equation", "Lesson_4\Quadratic_equation\Quadratic_equation.csproj", "{7F4D6755-518D-4C85-8280-F807F1A770B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{E1FC0BC3-0C32-46C9-9875-F29498AD206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1FC0BC3-0C32-46C9-9875-F29498AD206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1FC0BC3-0C32-46C9-9875-F29498AD206D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4D6755-518D-4C85-8280-F807F1A770B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4D6755-518D-4C85-8280-F807F1A770B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4D6755-518D-4C85-8280-F807F1A770B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4D6755-518D-4C85-8280-F807F1A770B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
