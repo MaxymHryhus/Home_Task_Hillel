@@ -28,12 +28,33 @@ D = b ^ 2 - 4 * a * c
             return D;
         }
 
-        // метод визначення кореня квадратного рівняння
-        private static double Root(double a, double b, double Discriminator)
+        // метод визначення кореня x1 квадратного рівняння
+        private static double Root1(double a, double b, double Discriminator)
         {
-            double x = (-b + Math.Sqrt(Discriminator)) / (2 * a);
-            return x;
+            double x1 = (-b + Math.Sqrt(Discriminator)) / (2 * a);
+            return x1;
         } 
+
+        // метод визначення корення х2 квадратного рівняння
+        
+        private static double Root2(double a, double b, double Discriminator)
+        {
+            double x2 = (-b - Math.Sqrt(Discriminator)) / (2 * a);
+            return x2;
+        }
+
+        // метод виведення у консоль першого рівнння
+        private static void Print1(double b, double D, double a) 
+        {
+            Console.WriteLine("- {0} + √{1} / (2 * {2})", b, D, a);
+        }
+
+        // метод виведення у консоль другого рівнння
+        private static void Print2(double b, double D, double a)
+        {
+            Console.WriteLine("- {0} - √{1} / (2 * {2})", b, D, a);
+        }
+
         static void Main(string[] args)
 
             // коефіцієнти
@@ -49,12 +70,15 @@ D = b ^ 2 - 4 * a * c
 
             if ( D > 0 )
             {
-            root1 = Root(a, b, D);
-            root2 = Root(a, b, D);
+                Print1(a, b, D);
+                Print2(a, b, D);
+                root1 = Root1(a, b, D);
+                root2 = Root2(a, b, D);
                 Console.WriteLine("Roots of the equation: x1 = {0}, x2 = {1}", root1, root2);
             } else if ( D == 0 )
-            { 
-                root1 = Root(a, b, D);
+            {
+                Print1(a, b, D);
+                root1 = Root1(a, b, D);
                     Console.WriteLine("The equation has one root" +
                         ": x = {0}", root1);
             } else
