@@ -12,7 +12,7 @@
             {
                 for (int j = 1; j <= 5; j++)
                 {
-                    Console.Write($"{j} * {i} = {i*j}\t");
+                    Console.Write($"{j} x {i} = {i*j}\t");
                 }
                 Console.WriteLine("");
             }
@@ -24,7 +24,7 @@
             {
                 for (int j = 6;  j <= 10; j++)
                 {
-                    Console.Write($"{j} * {i} = {j*i}\t");
+                    Console.Write($"{j} x {i} = {j*i}\t");
                 }
                 Console.WriteLine();
             }
