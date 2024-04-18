@@ -6,16 +6,27 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Multiplication Table:");
+
+            // Cтворення таблички множеня з 1 до 5 множника
             for (int i = 1; i <= 10; i++)
             {
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine($"[{i}]");
-            for (int j = 0; j <= 10; j++)
+                for (int j = 1; j <= 5; j++)
                 {
-                    Console.ForegroundColor = ConsoleColor.White;
-                    Console.WriteLine($"{i} * {j} = {i * j}");
+                    Console.Write($"{j} * {i} = {i*j}\t");
                 }
                 Console.WriteLine("");
+            }
+
+            Console.WriteLine();
+
+            // Створення таблички множення з 6 до 10 множника
+            for (int i = 1;i <= 10; i++)
+            {
+                for (int j = 6;  j <= 10; j++)
+                {
+                    Console.Write($"{j} * {i} = {j*i}\t");
+                }
+                Console.WriteLine();
             }
            Console.ReadLine();
         }
