@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Determining_the_season", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "Lesson_4\FizzBuzz\FizzBuzz.csproj", "{E1FC0BC3-0C32-46C9-9875-F29498AD206D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadratic_equation", "Lesson_4\Quadratic_equation\Quadratic_equation.csproj", "{7F4D6755-518D-4C85-8280-F807F1A770B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quadratic_equation", "Lesson_4\Quadratic_equation\Quadratic_equation.csproj", "{7F4D6755-518D-4C85-8280-F807F1A770B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password_verification", "Lesson_5\Password_verification\Password_verification.csproj", "{4279D53C-4A66-4360-98B7-76DA8612EAC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{7F4D6755-518D-4C85-8280-F807F1A770B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F4D6755-518D-4C85-8280-F807F1A770B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F4D6755-518D-4C85-8280-F807F1A770B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4279D53C-4A66-4360-98B7-76DA8612EAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4279D53C-4A66-4360-98B7-76DA8612EAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4279D53C-4A66-4360-98B7-76DA8612EAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4279D53C-4A66-4360-98B7-76DA8612EAC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
