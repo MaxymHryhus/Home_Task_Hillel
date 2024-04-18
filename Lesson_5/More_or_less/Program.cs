@@ -1,7 +1,9 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace More_or_less
+﻿namespace More_or_less
 {
+
+    // 2) Програма загадує число від 1 до 146 (привіт, Random). Користувач намагається вгадати
+    // його. У разі неправильної відповіді програма підказує «більше» або «менше»
+
     internal class Program
     {
         // метод генерації рандомного числа
