@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_inversion", "Array_in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inversion_Array", "Lesson_6\Inversion_Array\Inversion_Array.csproj", "{469CBB9E-0076-4C7A-88F7-9CBE90B73EC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New_element_at_the_beginning", "Lesson_6\New_element_at_the_beginning\New_element_at_the_beginning.csproj", "{A5EFC957-446F-4F62-8E7E-F9A496591878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{469CBB9E-0076-4C7A-88F7-9CBE90B73EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{469CBB9E-0076-4C7A-88F7-9CBE90B73EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{469CBB9E-0076-4C7A-88F7-9CBE90B73EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EFC957-446F-4F62-8E7E-F9A496591878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EFC957-446F-4F62-8E7E-F9A496591878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EFC957-446F-4F62-8E7E-F9A496591878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EFC957-446F-4F62-8E7E-F9A496591878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
