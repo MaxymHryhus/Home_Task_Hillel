@@ -39,8 +39,7 @@
                 if( number > 0 ) 
                 {
                 positiveNumbers++;
-                }
-            }
+                }            }
 
             Console.WriteLine("\n");
 
