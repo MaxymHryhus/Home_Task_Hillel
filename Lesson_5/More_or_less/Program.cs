@@ -7,15 +7,15 @@
     internal class Program
     {
         // метод генерації рандомного числа
-        private static byte GenerateRandomNumber(byte limit)
+        private static byte GenerateRandomNumber(byte min, byte max)
         {
             Random rand = new Random();
-            return (byte)rand.Next(limit);
+            return (byte)rand.Next(min, max);
         }
         static void Main(string[] args)
         {
             // генеруємо число від 1 до 146
-            byte randomNumber = GenerateRandomNumber(146);
+            byte randomNumber = GenerateRandomNumber(1,146);
 
             while(true)
             {

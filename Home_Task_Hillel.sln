@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Password_verification", "Le
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "More_or_less", "Lesson_5\More_or_less\More_or_less.csproj", "{B64F7C94-CB21-45DC-BB10-79850FA6E25B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplication_table", "Lesson_5\Multiplication_table\Multiplication_table.csproj", "{BE0244D2-7282-4148-A620-A4D96C57CD7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiplication_table", "Lesson_5\Multiplication_table\Multiplication_table.csproj", "{BE0244D2-7282-4148-A620-A4D96C57CD7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_positive_numbers", "Lesson_6\Number_positive_numbers\Number_positive_numbers.csproj", "{3D33EA0D-A839-4180-8658-3124904F335F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{BE0244D2-7282-4148-A620-A4D96C57CD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE0244D2-7282-4148-A620-A4D96C57CD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE0244D2-7282-4148-A620-A4D96C57CD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D33EA0D-A839-4180-8658-3124904F335F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D33EA0D-A839-4180-8658-3124904F335F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D33EA0D-A839-4180-8658-3124904F335F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D33EA0D-A839-4180-8658-3124904F335F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
